@@ -17,12 +17,12 @@ Html的部分有使用boostrap來做排版
 javascript  
 
 ### 3. - Content
-html : 使用boostrap 的 row 來合併鋼琴按鍵的div，並套用了一些屬性作美化  
-css : 鋼琴按鍵和對照的按鈕都有做當網頁放大或所小時要跟著變動的樣式  
-audiosrc資料夾 : 裡面是存各鋼琴按鍵和節拍器的聲音  
-Favicon : logo的圖片  
-還有其他一些圖片檔  
-javascript : 兩個檔案final.js 和 recorder.js  
+* html : 使用boostrap 的 row 來合併鋼琴按鍵的div，並套用了一些屬性作美化  
+* css : 鋼琴按鍵和對照的按鈕都有做當網頁放大或所小時要跟著變動的樣式  
+* audiosrc資料夾 : 裡面是存各鋼琴按鍵和節拍器的聲音  
+* Favicon : logo的圖片  
+* 其他一些圖片檔  
+* javascript : 兩個檔案final.js 和 recorder.js  
 ### final.js :  
     1.主要做鋼琴的互動  
     2.分別作滑鼠和鍵盤的互動  
